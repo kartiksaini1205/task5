@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 1999,
+    "category": "electronics",
+    "image": "assets/images/headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 12999,
+    "category": "electronics",
+    "image": "assets/images/smartphone.jpg"
+  },
+  {
+    "id": 3,
+    "name": "T-shirt (Cotton)",
+    "price": 499,
+    "category": "clothing",
+    "image": "assets/images/tshirt.jpeg"
+
+  },
+  {
+    "id": 4,
+    "name": "Jeans",
+    "price": 999,
+    "category": "clothing",
+    "image": "assets/images/jeans.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 1499,
+    "category": "electronics",
+    "image": "assets/images/speaker.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hoodie (Winter)",
+    "price": 899,
+    "category": "clothing",
+    "image": "assets/images/hoodie.jpg"
+  }
+]
+
